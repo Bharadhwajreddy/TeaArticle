@@ -1,0 +1,80 @@
+
+
+
+
+   
+   <div class="row" >
+        <div class="col-xs-9 col-md-4" style="padding-left:8%;">
+            <h2 id="headline">
+                Know whats happening around you
+                while you sip your tea
+            </h2>
+            <p style="color:rgb(0, 0, 0);">
+                It is a long established fact that a reader will be distractedby
+                 the readable content of a page when looking at its layout. The point 
+                 of using Lorem Ipsumis that it has a more
+            </p>
+           
+            <h5 style="color: rgb(0, 0, 0);">No.of subscribers:</h5>
+              
+              <div class="col-xs-2 mb-5">
+                <input type="email" class="form-control" id="emailid" placeholder="name@example.com">
+
+                <button type="button" class="btn btn-success">Subscribe</button>
+
+              </div>
+ 
+        </div>
+                <div class="col xs-3 col-md-5" id="Lottie" style="margin-left: auto;">
+                    
+                    <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+                    <lottie-player src="https://assets4.lottiefiles.com/packages/lf20_0cvczw8l.json"  background="transparent"  speed="1"  style="width: 350px; height: 350px;"  loop  autoplay></lottie-player>
+                </div>
+
+        </div>
+
+
+        
+        <div class="row no-gutters  position-relative" style="padding: 50px;">
+            <div class="col-md-6 mb-md-0 p-md-4" style="padding: 25px;">
+              <img src="https://static.startuptalky.com/2021/06/Licious-Success-Story_StartupTalky.jpg" class="w-100" alt="...">
+            </div>
+            <div class="col-md-6 position-static p-4 pl-md-0">
+              <h5 class="mt-0">Columns with stretched link</h5>
+              <p>Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.</p>
+              <a href="#" class="stretched-link">Go somewhere</a>
+            </div>
+          </div>
+
+
+
+
+<!--
+<h3>This Day Blooms</h3>
+
+<div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-4 mt-5 mb-5 ml-5" > 
+<div class="col" *ngFor="let p of articles">
+        <app-article-card [articleObject]=p  ></app-article-card>
+    </div>
+</div>
+-->
+
+<div class="row" >
+    <div class="col-sm-9 col-md-8" >
+<h4 style="margin-left: 35px;">  Recent Blooms</h4>
+</div>
+
+<!--
+<div class="col-sm-3 col-md-4">
+<a href="view" id="archive">Viewall</a>
+</div>
+</div>
+-->x`
+
+<div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-4 "> 
+    <div class="col" *ngFor="let p of blooms">
+            <app-bloom-card [bloomObject]=p  ></app-bloom-card>
+        </div>
+    </div>
+    
+     

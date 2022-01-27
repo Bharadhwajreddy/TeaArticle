@@ -1,0 +1,29 @@
+[
+    {
+        "articleHead":"stock",
+        "articleTitle":"stcks is the booming thing ",
+        "articletImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Kxx5bchxTZWlqX3kL6w5BGeoj0ImcjPB6w&usqp=CAU",
+        "Description":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour"
+    },
+
+    {
+        "articleHead":"Blockchain",
+        "articleTitle":"Bockcain is the latest chick in the class",
+        "articletImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYFgQwZBRz-vhAn5Bv8yICZKmWohOR19iyLA&usqp=CAU",
+        "Description":"Blockchain is like the peoples brain dont know what it has where it has but serves the situation "
+    },
+
+    {
+        "articleHead":"Sports",
+        "articleTitle":"sports are necessary!!!!!! ",
+        "articletImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO6qpCqB21SCVrNenz2Hirq6zb7hOR38Z0ag&usqp=CAU",
+        "Description":"Even people who duck out for 3matches in a row read about sports (cricket) alteration in some form, by injected humour"
+    },
+ 
+    {
+        "articleHead":"Entertainment",
+        "articleTitle":"oo antava mava oo antava mava",
+        "articletImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbJGPqKCoiTw0x_3qk4cvqMKounh39n9EWbA&usqp=CAU",
+        "Description":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour"
+    }
+]
